@@ -16,3 +16,5 @@
 docker build -t kyi-apache-image .
 
 ### Docker run Befehl
+
+docker run -d -p 8080:80 --name Apache-Server kyi-apache-image:latest
