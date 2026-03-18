@@ -9,10 +9,10 @@
 
 --> Ziel: „Container läuft + Website sichtbar“
 
-##Docker-Befehle
+## Docker-Befehle
 
-###Docker build Befehl
+### Docker build Befehl
 
 docker build -t kyi-apache-image .
 
-###Docker run Befehl
+### Docker run Befehl
